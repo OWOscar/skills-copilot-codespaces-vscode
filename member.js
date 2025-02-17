@@ -1,3 +1,3 @@
-function skillsmember(){
-  // do something
+function skillsMember() {
+    return 'Member skills';
 }
